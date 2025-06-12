@@ -16,8 +16,8 @@ Dette prosjektet utforsker hvordan velferdsteknologi kan støtte kvinner i barse
 Prototypen er bygget med:
 - Arduino Uno
 - HX711-modul (for signalforsterkning)
-- 10kg lastcelle
-- LED-lys (grønn, gul, rød) for visuell tilbakemelding
+- 5kg lastcelle
+- LED-lys (grønn, rød) for visuell tilbakemelding
 - Knapp for å aktivere måling (simulerer "tare"-funksjon)
 
 Vi valgte Arduino fordi det tilbyr fleksibilitet for videre testing og iterasjon i et fysisk miljø.
@@ -31,8 +31,8 @@ Vi valgte Arduino fordi det tilbyr fleksibilitet for videre testing og iterasjon
 - **Måling av babyens vekt** via lastcelle
 - **Visuell tilbakemelding**:
   - Grønt lys: normal vektøkning
-  - Gult lys: stabil vekt
   - Rødt lys: mulig vektnedgang
+    
 - **Kalibreringsstøtte** via separat kode
 
 ---

@@ -59,7 +59,7 @@ Flory Mette Schubert – brukerkontakt og intervjuer
 Erlend Mangset Krog – teknisk innsikt og struktur
 
 ---
-
+##
 Videre arbeid
 
 Legge til Bluetooth-modul for dataoverføring
@@ -69,7 +69,9 @@ Integrasjon med mobil-app for visning av vekthistorikk
 Forbedre 3D-designet for enkel montering
 
 ---
+##
 Lisens
+
 Dette prosjektet er utviklet som del av et kurs ved Universitetet i Oslo og er åpent for videreutvikling i akademisk sammenheng.
 
 

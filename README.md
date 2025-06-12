@@ -57,4 +57,3 @@ Tilbakemeldingene viste behov for:
 Abstrakt/
 ├── babyvekt.ino          # Arduino-kode for hovedfunksjonalitet
 ├── README.md             # Du leser den nå :)
-├── teknisk-dokumentasjon.pdf  # (valgfritt) Tekniske detaljer om implementasjon

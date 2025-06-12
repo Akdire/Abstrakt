@@ -58,17 +58,21 @@ Flory Mette Schubert – brukerkontakt og intervjuer
 
 Erlend Mangset Krog – teknisk innsikt og struktur
 
+---
+
 Videre arbeid
+
 Legge til Bluetooth-modul for dataoverføring
 
 Integrasjon med mobil-app for visning av vekthistorikk
 
 Forbedre 3D-designet for enkel montering
 
+---
 Lisens
 Dette prosjektet er utviklet som del av et kurs ved Universitetet i Oslo og er åpent for videreutvikling i akademisk sammenheng.
 
-🤝 Takk til alle mødre som bidro med innsikt og erfaringer!
+
 ---
 
 ##  Filstruktur
@@ -78,4 +82,6 @@ Abstrakt/
 ├── babyvekt.ino          # Arduino-kode for hovedfunksjonalitet
 ├── README.md             # Du leser den nå :)
 
----
+```
+
+🤝 Takk til alle mødre som bidro med innsikt og erfaringer!

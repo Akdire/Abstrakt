@@ -1,17 +1,17 @@
-# 👶 BabyVekt – Teknologisk støtte for nybakte mødre
+#  BabyVekt – Teknologisk støtte for nybakte mødre
 
 Et studentprosjekt i IN1060 ved Universitetet i Oslo, våren 2025.  
 Vi utviklet en prototype på en babyvekt basert på Arduino-teknologi, med mål om å gi nybakte mødre bedre støtte og kontroll over barnets vektutvikling – hjemmefra.
 
 ---
 
-## 📌 Om prosjektet
+## Om prosjektet
 
 Dette prosjektet utforsker hvordan velferdsteknologi kan støtte kvinner i barselperioden. Mange nybakte mødre opplever usikkerhet og stress knyttet til barnets ernæring og vektøkning. Målet med BabyVekt er å gi et enkelt, visuelt og lavterskel verktøy for vektovervåking hjemme.
 
 ---
 
-## 🔧 Teknisk løsning
+##  Teknisk løsning
 
 Prototypen er bygget med:
 - Arduino Uno
@@ -26,7 +26,7 @@ Vi valgte Arduino fordi det tilbyr fleksibilitet for videre testing og iterasjon
 
 ---
 
-## 💡 Funksjonalitet
+##  Funksjonalitet
 
 - **Måling av babyens vekt** via lastcelle
 - **Visuell tilbakemelding**:
@@ -37,7 +37,7 @@ Vi valgte Arduino fordi det tilbyr fleksibilitet for videre testing og iterasjon
 
 ---
 
-## 🧪 Brukertesting og design
+##  Brukertesting og design
 
 Vi brukte prinsipper fra *design med brukere (DMB)* og involverte nybakte mødre i flere faser:
 - Intervju og behovskartlegging
@@ -51,7 +51,7 @@ Tilbakemeldingene viste behov for:
 
 ---
 
-## 🗂️ Filstruktur
+##  Filstruktur
 
 ```plaintext
 Abstrakt/

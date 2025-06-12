@@ -51,16 +51,8 @@ Tilbakemeldingene viste behov for:
 
 ---
 
-##  Filstruktur
-
-```plaintext
-Abstrakt/
-├── babyvekt.ino          # Arduino-kode for hovedfunksjonalitet
-├── README.md             # Du leser den nå :)
-
 ---
-
-Prosjektgruppe
+## Prosjektgruppe
 Akil Sherif – design og kode (akilsherif)
 Flory Mette Schubert – brukerkontakt og intervjuer
 Erlend Mangset Krog – teknisk innsikt og struktur
@@ -74,3 +66,13 @@ Lisens
 Dette prosjektet er utviklet som del av et kurs ved Universitetet i Oslo og er åpent for videreutvikling i akademisk sammenheng.
 
 🤝 Takk til alle mødre som bidro med innsikt og erfaringer!
+---
+
+##  Filstruktur
+
+```plaintext
+Abstrakt/
+├── babyvekt.ino          # Arduino-kode for hovedfunksjonalitet
+├── README.md             # Du leser den nå :)
+
+---

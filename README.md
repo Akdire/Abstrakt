@@ -58,19 +58,16 @@ Abstrakt/
 ├── babyvekt.ino          # Arduino-kode for hovedfunksjonalitet
 ├── README.md             # Du leser den nå :)
 
+---
 
 Prosjektgruppe
 Akil Sherif – design og kode (akilsherif)
-
 Flory Mette Schubert – brukerkontakt og intervjuer
-
 Erlend Mangset Krog – teknisk innsikt og struktur
 
 Videre arbeid
 Legge til Bluetooth-modul for dataoverføring
-
 Integrasjon med mobil-app for visning av vekthistorikk
-
 Forbedre 3D-designet for enkel montering
 
 Lisens
